@@ -1,12 +1,12 @@
 import "./PageHeader.css";
-import FacebookIcon from "../../assets/icon/facebook.svg?react";
-import InstagramIcon from "../../assets/icon/Instagram.svg?react";
-import LinkedinIcon from "../../assets/icon/linkedin.svg?react";
-import YoutubeIcon from "../../assets/icon/youtube.svg?react";
+import FacebookIcon from "../../assets/icon/facebook-icon.svg?react";
+import InstagramIcon from "../../assets/icon/instagram-icon.svg?react";
+import LinkedinIcon from "../../assets/icon/linkedin-icon.svg?react";
+import YoutubeIcon from "../../assets/icon/youtube-icon.svg?react";
 
-import PhoneIcon from "../../assets/icon/phone.svg?react";
-import EmailIcon from "../../assets/icon/mail.svg?react";
-import LocationIcon from "../../assets/icon/location.svg?react";
+import PhoneIcon from "../../assets/icon/phone-icon.svg?react";
+import EmailIcon from "../../assets/icon/mail-icon.svg?react";
+import LocationIcon from "../../assets/icon/location-icon.svg?react";
 
 const PageBanner = () => {
   return (
