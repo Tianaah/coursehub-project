@@ -39,7 +39,7 @@ const PageNavigation = () => {
         </li>
       </menu>
       <div>
-        <button>Create Account</button>
+        <button className="btn-primary">Create Account</button>
       </div>
     </nav>
   );
